@@ -24,7 +24,8 @@ export default function app(){
 
                     <View className="relative mt-5">
                         <Text className = "text-3xl text-white font-bold text-canter">
-                            
+                            Discover Endless Possibilities with {' '}
+                            <Text className="text-secondary-200">Aora</Text>
                         </Text>
                     </View>
                     
