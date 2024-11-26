@@ -27,6 +27,7 @@ export default function app(){
                             
                         </Text>
                     </View>
+                    
                 </View>
             </ScrollView>
         </SafeAreaView>
