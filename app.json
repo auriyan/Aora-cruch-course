@@ -14,14 +14,15 @@
     "scheme": "Aora",
     "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "package": "com.jsm.aura"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.jsm.Aora"
+      "package": "com.jsm.aura"
     },
     "web": {
       "favicon": "./assets/favicon.png"
